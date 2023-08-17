@@ -9,6 +9,8 @@
 - 💬 Ask me about **Python, Power BI, SQL, VBA-Excel**
 
 - 📫 How to reach me **domingasduarte95@gmail.com**
+  
+- 👨‍💻 All of my projects are available in 
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/domingas-duarte-569497136/](https://www.linkedin.com/in/domingas-duarte-569497136/)
 
