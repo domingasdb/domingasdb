@@ -10,8 +10,7 @@
 
 - 📫 How to reach me **domingasduarte95@gmail.com**
   
-- 👨‍💻 All of my projects are available in [Portfolio](https://domingasdb.github.io/Portfolio/)
-
+- 👨‍💻 All of my projects are available in [Portfolio]
 - 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/domingas-duarte-569497136/)
 
 - 🔭 I’m currently working on:
