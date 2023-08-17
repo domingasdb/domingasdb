@@ -10,9 +10,9 @@
 
 - 📫 How to reach me **domingasduarte95@gmail.com**
   
-- 👨‍💻 All of my projects are available in [https://domingasdb.github.io/Data-Science-AI-Portfolio/]
+- 👨‍💻 All of my projects are available in [Portfolio](https://domingasdb.github.io/Data-Science-AI-Portfolio/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/domingas-duarte-569497136/](https://www.linkedin.com/in/domingas-duarte-569497136/)
+- 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/domingas-duarte-569497136/)
 
 - 🔭 I’m currently working on:
     - **A Data Science Project: Predicting Skill Demand in the Job Market using AI**
