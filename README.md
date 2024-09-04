@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Data Analyst | Actuarial Analyst | Data Scientist</h1>
+<h1 align="center">Hi 👋, I'm Actuarial Analyst | Data Scientist | Data Analyst | </h1>
 <h3 align="center">A passionate Data Science and AI</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
